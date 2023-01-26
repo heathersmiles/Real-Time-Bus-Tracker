@@ -1,7 +1,7 @@
 # Real Time Bus Tracker
 
 ## Project Description
-Create a web page that uses an API (mapbox) to source real-time data of the Boston MBTA busses. Display the live location of the bus stops between MIT & Harvard on a map.
+Create a web page that uses an API (mapbox) to source real-time data of the Boston MBTA buses. Display the location of the bus stops between MIT & Harvard on a map.
 
 ## How to use it?
 1. Download the following 4 files from the master branch of this repository into a directory on your local machine:<br />
