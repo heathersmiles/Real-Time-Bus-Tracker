@@ -14,10 +14,10 @@ Create a web page that uses an API (mapbox) to source real-time data of the Bost
 
 3. Click the button labeled, "Show stops between MIT and Harvard".
 
-##Project Roadmap
+## Project Roadmap
 In the future, add links to additional cities' real-time bus maps.
 
-##License
+## License
 MIT License
 
 Copyright (c) 2020 John Williams
